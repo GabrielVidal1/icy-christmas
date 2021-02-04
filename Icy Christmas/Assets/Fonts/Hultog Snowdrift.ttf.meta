@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 177f90de8fa5b8242ae88203d56e08e4
+timeCreated: 1482448491
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hultog Snowdrift
+  fontNames:
+  - Hultog Snowdrift
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

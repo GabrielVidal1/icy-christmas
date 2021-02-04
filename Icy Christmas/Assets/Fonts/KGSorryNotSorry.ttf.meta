@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f28ce9be6b524f54eafc2048fbbf849a
+timeCreated: 1482447381
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KG Sorry Not Sorry
+  fontNames:
+  - KG Sorry Not Sorry
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

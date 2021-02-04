@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 58e3ee0eb8cd0e94d84521961347e6a4
+timeCreated: 1482447381
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KG Sorry Not Sorry Chub
+  fontNames:
+  - KG Sorry Not Sorry Chub
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
